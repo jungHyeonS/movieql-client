@@ -1,4 +1,4 @@
 const Movie = () => {
-    return <div>Movie</div>
+    return <div>This is Movie detail</div>
 }
 export default Movie;
