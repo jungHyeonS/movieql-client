@@ -1,8 +1,9 @@
+import React from "react";
 import {BrowserRouter,Routes,Route} from "react-router-dom"
 import Movie from "./routes/Movie";
 import Movies from "./routes/Movies";
 
-function App() {
+const App = () => {
   return (
     <BrowserRouter>
       <Routes>
